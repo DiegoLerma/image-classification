@@ -28,11 +28,11 @@ Below are placeholders for sample images from each category to give a visual rep
 
 | Buildings | Forest | Glacier |
 |-----------|--------|---------|
-| ![Buildings](./data/examples/buildings.jpg) | ![Forest](./data/examples/forest.jpg) | ![Glacier](./data/examples/glacier.jpg) |
+| ![Buildings](./data_examples/buildings.jpg) | ![Forest](./data_examples/forest.jpg) | ![Glacier](./data_examples/glacier.jpg) |
 
 | Mountain | Sea | Street |
 |----------|-----|--------|
-| ![Mountain](./data/examples/mountain.jpg) | ![Sea](./data/examples/sea.jpg) | ![Street](./data/examples/street.jpg) |
+| ![Mountain](./data_examples/mountain.jpg) | ![Sea](./data_examples/sea.jpg) | ![Street](./data_examples/street.jpg) |
 
 ## Project Objective
 The main goal is to train deep neural networks (Convolutional Neural Networks - CNNs) to classify natural scenes with high accuracy, enhancing skills in computer vision and deep learning.
