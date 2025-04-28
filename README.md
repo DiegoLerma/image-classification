@@ -62,8 +62,7 @@ The project evaluates the performance of each model on the test set, visualizing
 
 ## How to Run
 1. Install dependencies: `pip install -r requirements.txt`
-2. Download the dataset using Kaggle API or manually place it in the `data` folder.
-3. Run the script: `python image-classification.py`
+2. Follow the instruccions in the notebook.
 
 ## Author
 Developed by Diego Cesar Lerma Torres for IMF Smart Education.
