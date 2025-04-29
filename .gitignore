@@ -10,6 +10,7 @@ data/
 kt_logs/
 models/
 history/
+*/kt_logs_hyperband/
 
 
 .ipynb_checkpoints
